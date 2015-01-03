@@ -34,6 +34,16 @@ body {
     height:100%;
 }
 
+.welcome_title{
+  font-size:48px;
+  color:#ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 900;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  line-height: 100%;
+  text-align: center;}
+
 .Under_title{
   font-size:20px;
   color:#9aa1a9;
@@ -70,6 +80,7 @@ body {
  }
 
 .submit_btn2 a{
+  max-width:133px;
   color: #fff;
   text-decoration: none;
   display: inline-block;
