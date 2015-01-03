@@ -129,6 +129,18 @@ fieldset[disabled] .btn-primary.active {
     background-color: #fed136;
 }
 
+.btn:before,
+ {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	position: relative;
+	-webkit-font-smoothing: antialiased;
+
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
