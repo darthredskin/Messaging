@@ -1,4 +1,23 @@
+body{ padding : 30px; }
 
+/* ------ Ipads ------ */
+@media all and ( max-width: 1024px ){
+
+    body{ padding : 22px; }
+
+}
+/* ------ Smartphone ( landscape ) ------ */
+@media all and ( max-width: 480px ){
+
+    body{ padding : 10px; }
+
+}
+/* ------ Smartphone ( portrait ) ------ */
+@media all and ( max-width: 320px ){
+
+    body{ padding : 5px; }
+
+}
 
 body {
     max-width:100%;
