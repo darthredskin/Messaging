@@ -56,3 +56,22 @@ body {
     filter: alpha(opacity=0.8); /* For IE8 and earlier */
  }
 
+.submit_btn2 a{
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 20px;
+  font-family:'Open Sans', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 3px;
+  text-align: center;
+  background-color:#7cc576; 
+  opacity: 1.0;
+  margin-bottom: 10px;
+    filter: alpha(opacity=100); /* For IE8 and earlier */ }	
+
+.submit_btn2:hover a{
+   background-color:#7cc576;
+   opacity: 0.8;
+    filter: alpha(opacity=80); /* For IE8 and earlier */}
