@@ -271,12 +271,12 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(http://static.tumblr.com/d530b1c07d52505cfae61204dc32f378/pvei8zj/Evpmomofu/tumblr_static_black-wood-background.jpg);
+    background-image: url(http://static.tumblr.com/d530b1c07d52505cfae61204dc32f378/pvei8zj/Evpmomofu/tumblr_static_black-wood-background.jpg); no-repeat center center fixed; 
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    background-size: 100%;
+    background-size: cover;
     -o-background-size: cover;
     height:100%;
 }
