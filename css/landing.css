@@ -58,6 +58,7 @@ body {
 }
 
 .submit_btn1 a{
+  width:133px;
   color: #fff;
   text-decoration: none;
   display: inline-block;
@@ -80,7 +81,7 @@ body {
  }
 
 .submit_btn2 a{
-  max-width:133px;
+  width:133px;
   color: #fff;
   text-decoration: none;
   display: inline-block;
