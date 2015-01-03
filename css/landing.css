@@ -34,6 +34,19 @@ body {
     height:100%;
 }
 
+.Under_title{
+  font-size:20px;
+  color:#9aa1a9;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  padding-top: 25px;
+  padding-bottom:25px;
+  text-align: center;
+  margin-left:12%; 
+  width: 75%;
+  line-height: 30px;
+}
+
 .submit_btn1 a{
   color: #fff;
   text-decoration: none;
