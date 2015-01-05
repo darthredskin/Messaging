@@ -17,7 +17,7 @@ h2 {
   margin-bottom: 20px; }
 
 a {
-  color: #435160;
+  color: white;
   text-decoration: none; }
 
 .login {
@@ -90,7 +90,7 @@ input[type="submit"] {
   line-height: 15px; }
 
 ::-webkit-input-placeholder {
-  color: #435160;
+  color: white;
   font-size: 12px; }
 
 .animated {
